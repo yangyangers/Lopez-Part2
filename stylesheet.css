@@ -139,4 +139,27 @@ h4{
 	background-color: powderblue;
 	border-style: double;
 }
-
+#b4{
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/e/e7/Born_Pink_Digital.jpeg);
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	align-items: center;
+}
+h5{
+	text-align: center;
+	font-size: 250%;
+	border-style: ridge;
+	background-color: powderblue;
+	border-color: darkslateblue;
+}
+#p5{
+	font-size: 16px;
+	text-align: center;
+	font-family: monospace;
+	background-color: #686868;
+	border-color: darkslateblue;
+	padding: 25px 50px 75px 100px;
+}
