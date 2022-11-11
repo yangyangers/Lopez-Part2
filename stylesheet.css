@@ -1,0 +1,142 @@
+nav{
+	display: flex;
+	flex-wrap: wrap;
+	overflow: hidden;
+	background-color: transparent;
+}
+nav a {
+	text-decoration: none;
+	font-size: 17px;
+	display: block;
+	padding: 15px 25px;
+	text-align: center;
+	background: darkslateblue;
+	font-family: sans-serif;
+	border-style: solid;
+	background-color: powderblue;
+	margin: auto;
+}
+nav a:hover{
+	background-color: antiquewhite;
+	color: rebeccapurple;
+}
+nav a:active{
+	background-color: #04AA6D;
+	color: white;
+}
+#index{ /* Home */
+	background-image: url(https://images.unsplash.com/photo-1536195892759-c8a3c8e1945e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80);
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-size: 250%;
+	border-style: ridge;
+	background-color: powderblue;
+	border-color: darkslateblue;
+}
+#p1{
+	font-size: 16px;
+	text-align: center;
+	font-family: monospace;
+	background-color: powderblue;
+	border-style: dashed;
+}
+#lol{
+	border-radius: 4px;
+	margin-left: auto;
+}
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: antiquewhite;
+}
+table, th, td {
+  border: 1px solid black;
+  background-color: skyblue;
+  margin-left: auto;
+  margin-right: auto;
+}
+#b1{	/* Elementary */
+	background-image: url(https://i1.wp.com/mycebuphotoblog.com/wp-content/uploads/2007/03/401957167_5933360676_o.jpg?fit=800%2C444);
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	align-items: center;
+}
+img{ /* elem to shs */
+	border: 8px solid black;
+	background-color: powderblue;
+	border-radius: 4px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: double;
+	display: block;
+}
+h2{
+	text-align: center;
+	font-size: 250%;
+	border-style: ridge;
+	background-color: powderblue;
+	border-color: darkslateblue;
+}
+#p2{
+	font-size: 16px;
+	text-align: justify;
+	font-family: monospace;
+	background-color: powderblue;
+	border-style: double;
+}
+#b2{	/* Junior High */
+	background-image: url(https://mediaprocessor.websimages.com//https://memberfiles.freewebs.com/52/86/125558652/photos/ADSI---Ramon-Duterte-Memorial-National-High-School/IMG_4928.JPG);
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	align-items: center;
+}
+h3{
+	text-align: center;
+	font-size: 250%;
+	border-style: ridge;
+	background-color: powderblue;
+	border-color: darkslateblue;
+}
+#p3{
+	font-size: 16px;
+	text-align: justify;
+	font-family: monospace;
+	background-color: powderblue;
+	border-style: double;
+}
+#b3{	/* Senior High */
+	background-image: url(https://i.pinimg.com/564x/56/13/bb/5613bb3a86218a2d494fd322e738bddb.jpg);
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	align-items: center;
+}
+h4{
+	text-align: center;
+	font-size: 250%;
+	border-style: ridge;
+	background-color: powderblue;
+	border-color: darkslateblue;
+}
+#p4{
+	font-size: 16px;
+	text-align: justify;
+	font-family: monospace;
+	background-color: powderblue;
+	border-style: double;
+}
+
